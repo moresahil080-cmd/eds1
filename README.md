@@ -1,2 +1,2 @@
-# Cisco-certificate-
-I have completed this python essential 1 and Python essential 2 by Cisco. Here I am uploading Cisco certificates here. 
+# preskilet video link 
+https://youtu.be/qKJ9rVgYeb0?si=6MIPPYLqM5lxw0ah
